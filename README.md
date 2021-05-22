@@ -10,4 +10,3 @@ Covid19 realtime information desktop widget written in JavaFX
 <img src=https://i.imgur.com/iOdrcDi.jpg>
 
 ### Full Desktop Screenshot
- ![How to install](https://drive.google.com/file/d/1bXHO-NOOUJKRKr4TWK8cRlCOJHzfKW_F/view?usp=sharing)
